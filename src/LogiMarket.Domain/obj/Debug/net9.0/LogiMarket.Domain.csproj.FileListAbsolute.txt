@@ -1,0 +1,12 @@
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\obj\Debug\net9.0\LogiMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\obj\Debug\net9.0\LogiMarket.Domain.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\obj\Debug\net9.0\LogiMarket.Domain.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\obj\Debug\net9.0\LogiMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\obj\Debug\net9.0\LogiMarket.Domain.sourcelink.json
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\bin\Debug\net9.0\LogiMarket.Domain.deps.json
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\bin\Debug\net9.0\LogiMarket.Domain.dll
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\bin\Debug\net9.0\LogiMarket.Domain.pdb
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\obj\Debug\net9.0\LogiMarket.Domain.dll
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\obj\Debug\net9.0\refint\LogiMarket.Domain.dll
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\obj\Debug\net9.0\LogiMarket.Domain.pdb
+C:\Users\Ariel\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\LogiMarket360-2.0\src\LogiMarket.Domain\obj\Debug\net9.0\ref\LogiMarket.Domain.dll
